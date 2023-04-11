@@ -1,4 +1,4 @@
-# Generaciones con Js - Practicas con Javascript ( Metodologia BOM )📚 
+# Generaciones con Js - Practicas con Javascript ( Metodologia BOM y Clases )📚 
 
 ## Own project . Rolling Code's homework to learn about Javascript .
 
