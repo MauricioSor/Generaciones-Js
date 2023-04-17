@@ -4,6 +4,10 @@ body{
         animation:animacion 10s infinite;
     
 }
+main{
+    flex-grow: 1;
+    min-height: 90vh;
+}
 @keyframes animacion{
     0%{
         background-position: 0% 50%;
